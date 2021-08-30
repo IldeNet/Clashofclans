@@ -6,7 +6,7 @@
   # https://developer.clashofclans.com/
   ####################################################################
   
-  $token = 'key'; 
+  $token = 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6ImJmNGY2OWFjLWE5YWMtNDVhOS1hNzRiLWI4NWM1MzczZjU3MSIsImlhdCI6MTYzMDM0MDc3Niwic3ViIjoiZGV2ZWxvcGVyLzQ5NzIyODY1LWEwMGMtYjU2ZC04NjhhLWZhYjUzZGMyNjgwNSIsInNjb3BlcyI6WyJjbGFzaCJdLCJsaW1pdHMiOlt7InRpZXIiOiJkZXZlbG9wZXIvc2lsdmVyIiwidHlwZSI6InRocm90dGxpbmcifSx7ImNpZHJzIjpbIjE4NS4xOTkuMTA5LjE1MyJdLCJ0eXBlIjoiY2xpZW50In1dfQ.QWN7FqJJS2Z3NWSWD5WE2NNwtnRgqbN7Zhv2el5aup6M2priO5Sux5yQilc9waUnI2hAOA-Ryc-INKrgl1egTA'; 
 
   ####################################################################
   # DO NOT MODIFY ANYTHING BELOW THIS COMMENT
